@@ -1,2 +1,2 @@
 # EJ2-DataGrid-Blazor-CustomAdaptor-CRUD-SortFilter
-In this demo, grid is bound with data using CustomAdaptor extended from DataAdaptor with CRUD operations, sorting and filtering.
+In this demo, DataGrid is bound with data using CustomAdaptor. For CustomAdaptor we have extended methods like (Read, Insert, Update and Remove) from DataAdaptor to perform CRUD operations along with Data operations like sorting and filtering, paging etc.
