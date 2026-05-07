@@ -1,6 +1,6 @@
 # Blazor DataGrid with CustomAdaptor
 
-A complete example demonstrating how to build a data-driven Blazor application using Syncfusion DataGrid with a custom data adaptor for CRUD operations and advanced data operations like sorting, filtering, and paging.
+A complete example demonstrating how to build a data-driven Blazor application using Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) with a custom data adaptor for CRUD operations and advanced data operations like sorting, filtering, and paging.
 
 ## Overview
 
@@ -32,7 +32,7 @@ The application uses Syncfusion's `CustomAdaptor` pattern, which extends the `Da
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Blazor-DataGrid-CustomAdaptor-CRUD-SortFilter.git
+git clone https://github.com/SyncfusionExamples/Blazor-DataGrid-CustomAdaptor-CRUD-SortFilter.git
 cd Blazor-DataGrid-CustomAdaptor-CRUD-SortFilter
 ```
 
