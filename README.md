@@ -14,7 +14,7 @@ This sample project showcases best practices for building scalable data manageme
 
 The application uses Syncfusion's `CustomAdaptor` pattern, which extends the `DataAdaptor` class to implement custom Read, Insert, Update, and Remove methods, giving you full control over how data is fetched and manipulated.
 
-## Key Features
+## Features
 
 - **Sorting and Filtering**:  Define custom logic for fetching data with sorting and filtering
 - **Insert Operation**: Handle INSERT operations when users add new records
